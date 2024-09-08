@@ -1,0 +1,14 @@
+﻿  AudioManager.cpp
+  Core.cpp
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game2\Core.cpp(22,40): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game2\Core.cpp(22,28): warning C4244: 'argumento': conversión de 'const float' a 'unsigned int'; posible pérdida de datos
+  FontManager.cpp
+  Game.cpp
+  InputManager.cpp
+  main.cpp
+  Pelotas.cpp
+  Player.cpp
+  Renderer.cpp
+  Generando código...
+C:\Users\dario\Desktop\SFML\EstructuraCore - Game2\FontManager.cpp(38,1): warning C4715: 'FontManager::GetFont': no todas las rutas de acceso de control devuelven un valor
+  SFMLProject2.vcxproj -> C:\Users\dario\Desktop\SFML\EstructuraCore - Game2\x64\Debug\EstructuraCore.exe
